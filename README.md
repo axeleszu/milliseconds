@@ -16,13 +16,6 @@ The **Milliseconds** extension for Visual Studio Code allows you to quickly inse
 
 Make sure you have [Visual Studio Code](https://code.visualstudio.com/) installed.
 
-### Install from Marketplace
-
-1. Open Visual Studio Code.
-2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar or pressing `Ctrl + Shift + X` (or `Cmd + Shift + X` on macOS).
-3. Search for "Milliseconds".
-4. Click **Install** to add the extension.
-
 ### Install from VSIX
 
 If you have a `.vsix` file:
